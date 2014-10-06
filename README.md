@@ -1,11 +1,12 @@
 # Karl Gentner
 
 ##Code Fellows - To-Do List Challenge
-Application for Q4 JS Full-Stack Dev Accelerator
+For Application to Q4 JS Full-Stack Dev Accelerator
 
 This assignment can also be viewed at the following urls:
-*http://jsfiddle.net/kgentner/qy3mrukq/
-*http://kgentner.github.io/cf-todolist-challenge
+* http://jsfiddle.net/kgentner/qy3mrukq/
+* http://kgentner.github.io/cf-todolist-challenge
+
 
 ## Contact Information:
 
